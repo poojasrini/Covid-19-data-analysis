@@ -1,1 +1,10 @@
 # Major_project
+## Covid-19 Data analysis
+
+The outbreak of COVID-19 is all across the World and is been spreading day by day. Thus the correct analysis to predict the cases in future along with finding the correlation by plotting graphs is very essential for clear understanding.<br/?>
+
+The objective of this notebook is to understand the outbreak of COVID-19 in India, Comparison of different states in India, and finding the worst affected state in this pandemic. A Machine Learning and Time Series Forecasting model is also built to understand what these numbers are going to be like in near future.<br/>
+
+The Repository contains the following files:</br>
+1) : Dataset used in the project
+2) : python notebook with the code
