@@ -1,5 +1,4 @@
-# Major_project
-## Covid-19 Data analysis
+# Covid-19 Data analysis
 
 The outbreak of COVID-19 is all across the World and is been spreading day by day. Thus the correct analysis to predict the cases in future along with finding the correlation by plotting graphs is very essential for clear understanding.<br/>
 
